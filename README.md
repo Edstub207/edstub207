@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Rocksteady.
+- 🌱 I’m currently learning a lot of coding stuff. 
+- 🤔 I’m looking for help with my Wordpress Plugin for IGDB (View Gitlab for that)
+- 💬 Ask me about Game Dev. Music. Photography. Websites Creation (Wordpress / HTML)
+- 📫 How to reach me: @Edstub207 on Twitter
+- ⚡ Fun fact: I prefer Gitlab over Github. 
 <!--
 **Edstub207/edstub207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
