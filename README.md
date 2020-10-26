@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://edstub.co.uk/index.html#portfolio](http://edstub.co.uk/index.html#portfolio)
 
-- 💬 Ask me about **DevOps/QA/Automatioin in the games industry**
+- 💬 Ask me about **DevOps/QA/Automation in the games industry**
 
 - 📫 How to reach me **https://www.linkedin.com/in/edstub/**
 
