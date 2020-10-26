@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
-<h3 align="center">A Game Developer based in England</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edstub207&label=Profile%20views&color=0e75b6&style=flat" alt="edstub207" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edstub207" alt="edstub207" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/edstub207" target="blank"><img src="https://img.shields.io/twitter/follow/edstub207?logo=twitter&style=for-the-badge" alt="edstub207" /></a> </p>
+<h3 align="center">A Game Developer based in England. Usually working on Gitlab Projects, not Github. </h3>
 
 - 🔭 I’m currently working on **Private Projects**
 
