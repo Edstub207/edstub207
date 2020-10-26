@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I prefer Gitlab over Github (Look at Gitlab for most my stuff)**
 
 ### Blogs posts
- ![Last Automatic Blog Update was ](https://github.com/Edstub207/edstub207/workflows/Last%20Automatic%20Blog%20Status/badge.svg)
+Blog Automatic Status Update status > ![Latest blog post workflow](https://github.com/Edstub207/edstub207/workflows/Latest%20blog%20post%20workflow/badge.svg)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
