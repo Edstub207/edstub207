@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [The IGDB WordPress Plugin (Gitlab)](https://gitlab.com/edstub207/IGDB-Modern)
 
-- 👨‍💻 All of my projects are available at [http://edstub.co.uk/](http://edstub.co.uk/)
+- 👨‍💻 All of my projects are available at [http://edstub.co.uk/index.html#portfolio](http://edstub.co.uk/index.html#portfolio)
 
 - 💬 Ask me about **DevOps/QA/Automatioin in the games industry**
 
