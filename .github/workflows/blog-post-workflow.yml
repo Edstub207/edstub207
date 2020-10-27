@@ -11,5 +11,5 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                filter_comments: "" 
+                filter_comments: "medium" 
                 feed_list: "https://medium.com/feed/@edstub207"
