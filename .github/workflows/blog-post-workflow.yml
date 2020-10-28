@@ -1,6 +1,7 @@
 name: Automatic Medium Blog Post Update
 on: 
-    [workflow_dispatch]  
+    schedule:
+        - cron: '15 * * * *'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
