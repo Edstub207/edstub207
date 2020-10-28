@@ -24,6 +24,7 @@
 ### Blogs posts
 ![Automatic Medium Blog Post Update](https://github.com/Edstub207/edstub207/workflows/Automatic%20Medium%20Blog%20Post%20Update/badge.svg)
 <!-- BLOG-POST-LIST:START -->
+- [Hello World…](https://medium.com/@edstub207/hello-world-acca5a2e184?source=rss-bd08f63309c9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
