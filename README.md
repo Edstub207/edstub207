@@ -23,6 +23,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Retrospective: How I got into Games QA](https://medium.com/@edstub207/retrospective-how-i-got-into-games-qa-c9840c694a48?source=rss-bd08f63309c9------2)
 - [Retrospective: How I got into the games industry](https://medium.com/@edstub207/retrospective-how-i-got-into-the-games-industry-4644bec6570b?source=rss-bd08f63309c9------2)
 - [Hello World…](https://medium.com/@edstub207/hello-world-acca5a2e184?source=rss-bd08f63309c9------2)
 <!-- BLOG-POST-LIST:END -->
