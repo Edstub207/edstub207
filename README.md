@@ -23,10 +23,10 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking Ahead: A brief look ahead at 2021 In Video Games](https://medium.com/edstub207/looking-ahead-a-brief-look-ahead-at-2021-in-video-games-f538accc1180?source=rss-bd08f63309c9------2)
 - [Retrospective: A look back on 2020 in Video Games & My Personal Top Picks](https://medium.com/edstub207/retrospective-a-look-back-on-2020-in-video-games-my-personal-top-picks-8ddc8671b962?source=rss-bd08f63309c9------2)
 - [Retrospective: A brief look back on my 2020](https://medium.com/edstub207/retrospective-a-brief-look-back-on-my-2020-4281cff8c29f?source=rss-bd08f63309c9------2)
 - [Retrospective: How I got into Games QA](https://medium.com/edstub207/retrospective-how-i-got-into-games-qa-c9840c694a48?source=rss-bd08f63309c9------2)
-- [Retrospective: How I got into the games industry](https://medium.com/edstub207/retrospective-how-i-got-into-the-games-industry-4644bec6570b?source=rss-bd08f63309c9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Primary Tech Stack:</h3>
