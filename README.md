@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I prefer Gitlab over Github (Look at Gitlab for most my stuff)**
 
-### Most Recent Medium Blog posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Retrospective: A look back on 2020 in Video Games & My Personal Top Picks](https://medium.com/@edstub207/retrospective-a-look-back-on-2020-in-video-games-my-personal-top-picks-8ddc8671b962?source=rss-bd08f63309c9------2)
 - [Retrospective: A brief look back on my 2020](https://medium.com/@edstub207/retrospective-a-brief-look-back-on-my-2020-4281cff8c29f?source=rss-bd08f63309c9------2)
