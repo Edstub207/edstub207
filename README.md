@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://edstub.co.uk/#portfolio](http://edstub.co.uk/#portfolio)
 
-- 📝 I regulary write articles on [http://edstub.co.uk/#blog](http://edstub.co.uk/#blog)
+- 📝 I regulary write articles on [https://edstub207.medium.com/](https://edstub207.medium.com/)
 
 - 💬 Ask me about **DevOps/QA/Automation in the games industry**
 
