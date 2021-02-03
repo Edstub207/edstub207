@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with [The IGDB WordPress Plugin (Gitlab)](https://gitlab.com/edstub207/IGDB-Modern)
 
-- 👨‍💻 All of my projects are available at [http://edstub.co.uk/#portfolio](http://edstub.co.uk/#portfolio)
+- 👨‍💻 All of my projects are available on [my portfolio](http://edstub.co.uk/#portfolio)
 
-- 📝 I regulary write articles on [https://edstub207.medium.com/](https://edstub207.medium.com/)
+- 📝 I write blog articles on [Medium](https://edstub207.medium.com/)
 
 - 💬 Ask me about **DevOps/QA/Automation in the games industry**
 
 - 📫 How to reach me **Linkedin/Twitter.**
 
-- 📄 Know about my experiences [http://edstub.co.uk/#resume](http://edstub.co.uk/#resume)
+- 📄 Discover my experiences on my [Resume](http://edstub.co.uk/#resume)
 
 - ⚡ Fun fact **I prefer Gitlab over Github (Look at Gitlab for most my stuff)**
 
@@ -54,7 +54,7 @@
 <p align="left">
 <a href="https://twitter.com/edstub207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edstub207" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edstub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edstub" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/6488234/eddie-stubbington?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/6488234/eddie-stubbington?tab=profile" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6488234/eddie-stubbington?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/6488234/eddie-stubbington?tab=profile" height="30" width="40" /></a>
 <a href="https://instagram.com/edstub207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="edstub207" height="30" width="40" /></a>
 <a href="https://medium.com/@edstub207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@edstub207" height="30" width="40" /></a>
 </p>
