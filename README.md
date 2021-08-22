@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Private Projects**
 
-- 🌱 I’m currently learning **C++, Rust and Python**
+- 🌱 I’m currently learning **C#**
 
 - 🤝 I’m looking for help with [The IGDB WordPress Plugin (Gitlab)](https://gitlab.com/edstub207/IGDB-Modern)
 
@@ -13,7 +13,7 @@
 
 - 📝 I write blog articles on [Medium](https://edstub207.medium.com/)
 
-- 💬 Ask me about **DevOps/QA/Automation in the games industry**
+- 💬 Ask me about **Tools/DevOps/QA/Automation in the games industry**
 
 - 📫 How to reach me **Linkedin/Twitter.**
 
