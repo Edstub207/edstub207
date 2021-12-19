@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [The IGDB WordPress Plugin (Gitlab)](https://gitlab.com/edstub207/IGDB-Modern)
 
-- 👨‍💻 All of my projects are available on [my portfolio](http://edstub.co.uk/#portfolio)
+- 👨‍💻 All of my projects are available on [my portfolio](http://edstub.co.uk/)
 
 - 📝 I write blog articles on [Medium](https://edstub207.medium.com/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Linkedin/Twitter.**
 
-- 📄 Discover my experiences on my [Resume](http://edstub.co.uk/#resume)
+- 📄 About me [More Details](http://edstub.co.uk/about.html)
 
 - ⚡ Fun fact **I prefer Gitlab over Github (Look at Gitlab for most my stuff)**
 
