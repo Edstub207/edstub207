@@ -23,10 +23,10 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Retrospective: How I became a Programmer in Games &lpar;And a look back at the first year..&rpar;](https://medium.com/edstub207/retrospective-how-i-became-a-programmer-in-games-and-a-look-back-at-the-first-year-b4333693d324?source=rss-bd08f63309c9------2)
+- [Retrospective: A look back on 2021 in Video Games &amp; My Personal Top Picks](https://medium.com/edstub207/retrospective-a-look-back-on-2021-in-video-games-my-personal-top-picks-a727f1147ae?source=rss-bd08f63309c9------2)
 - [Looking Ahead: A Look at how to set Goals for 2021, and what my goals are](https://medium.com/edstub207/looking-ahead-a-look-at-how-to-set-goals-for-2021-and-what-my-goals-are-fff828fd1151?source=rss-bd08f63309c9------2)
 - [Looking Ahead: A brief look ahead at 2021 In Video Games](https://medium.com/edstub207/looking-ahead-a-brief-look-ahead-at-2021-in-video-games-f538accc1180?source=rss-bd08f63309c9------2)
-- [Retrospective: A look back on 2020 in Video Games &amp; My Personal Top Picks](https://medium.com/edstub207/retrospective-a-look-back-on-2020-in-video-games-my-personal-top-picks-8ddc8671b962?source=rss-bd08f63309c9------2)
-- [Retrospective: A brief look back on my 2020](https://medium.com/edstub207/retrospective-a-brief-look-back-on-my-2020-4281cff8c29f?source=rss-bd08f63309c9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Primary Tech Stack:</h3>
