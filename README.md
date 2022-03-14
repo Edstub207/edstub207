@@ -49,7 +49,7 @@
                 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/API%20Coverage-Postman-%230078D7?logo=Postman&logoColor=white"></a>
                 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Config%20Management-Docker-%230078D7?logo=Docker&logoColor=white"></a>
                 <a href="https://www.unrealengine.com/en-US/"><img src="https://img.shields.io/badge/Public%20Game%20Engine-UE4-%230078D7?logo=unreal%20engine&logoColor=white"></a>
-               <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Config%20Management20-Ansible-%230078D7?logo=ansible&logoColor=white"></a>
+               <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Config%20Management-Ansible-%230078D7?logo=ansible&logoColor=white"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
