@@ -49,12 +49,12 @@
                 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/API%20Coverage-Postman-%230078D7?logo=Postman&logoColor=white"></a>
                 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Config%20Management-Docker-%230078D7?logo=Docker&logoColor=white"></a>
                 <a href="https://www.unrealengine.com/en-US/"><img src="https://img.shields.io/badge/Public%20Game%20Engine-UE4-%230078D7?logo=unreal%20engine&logoColor=white"></a>
+               <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Config%20Management20-Ansible-%230078D7?logo=ansible&logoColor=white"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/edstub207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edstub207" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edstub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edstub" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6488234/eddie-stubbington?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/6488234/eddie-stubbington?tab=profile" height="30" width="40" /></a>
-<a href="https://instagram.com/edstub207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="edstub207" height="30" width="40" /></a>
 <a href="https://medium.com/@edstub207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@edstub207" height="30" width="40" /></a>
 </p>
