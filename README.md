@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
-<h3 align="center">A Game Developer based in England. Usually working on Gitlab Projects, so don't use this much.</h3>
+<h3 align="center">A Game Developer, specialising in Build Engineering, based in England. Usually working on Gitlab Projects, so don't use this much.</h3>
 
-<p align="left"> <a href="https://twitter.com/edstub207" target="blank"><img src="https://img.shields.io/twitter/follow/edstub207?logo=twitter&style=for-the-badge" alt="edstub207" /></a> </p>
+<p align="left"> <a href="https://twitter.com/EddieMakesGames" target="blank"><img src="https://img.shields.io/twitter/follow/EddieMakesGames?logo=twitter&style=for-the-badge" alt="EddieMakesGames" /></a> </p>
 
 - 🔭 I’m currently working on **Private Projects**
 
@@ -53,7 +53,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/edstub207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edstub207" height="30" width="40" /></a>
+<a href="https://twitter.com/EddieMakesGames" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="EddieMakesGames" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edstub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edstub" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6488234/eddie-stubbington?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/6488234/eddie-stubbington?tab=profile" height="30" width="40" /></a>
 <a href="https://medium.com/@edstub207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@edstub207" height="30" width="40" /></a>
