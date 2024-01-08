@@ -34,7 +34,6 @@
                 <a href="https://www.nvidia.com/en-gb/"> <img src="https://img.shields.io/badge/Custom%20PC-Nvidia%20%26%20Intel-blue?logo=nvidia&logoColor=white"></a>
                 <a href="https://store.google.com/gb/config/pixel_7_pro"><img src="https://img.shields.io/badge/Phone-OnePlus%209%20Pro%20-%230078D7?logo=googleplay&logoColor=white"></a>
                 <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Desktop%20OS-Windows%2010-%230078D7?logo=windows&logoColor=white"></a>
-                <a href="https://www.oneplus.com/oxygenos"><img src="https://img.shields.io/badge/Mobile%20OS-OxygenOS%20(Android)-%230078D7?logo=android&logoColor=white"></a>
                 <a href="https://www.microsoft.com/edge"><img src="https://img.shields.io/badge/Browser-Microsoft%20Edge-%230078D7?logo=microsoft-edge&logoColor=white"></a>
                 <a href="https://visualstudio.microsoft.com/vs"><img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code%20-%230078D7?logo=visual-studio&logoColor=white"></a>
                 <a href="https://www.ubuntu.com/"><img src="https://img.shields.io/badge/WSL%20distro-Ubuntu-%230078D7?logo=ubuntu&logoColor=white"></a>
@@ -47,7 +46,7 @@
                 <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7"><img src="https://img.shields.io/badge/Shell%20-Powershell-%230078D7?logo=PowerShell&logoColor=white"></a>
                 <a href="https://www.unrealengine.com/en-US/"><img src="https://img.shields.io/badge/Build%20Pipeline-Horde-%230078D7?logo=unreal%20engine&logoColor=blue"></a>
                 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/API%20Coverage-Postman-%230078D7?logo=Postman&logoColor=white"></a>
-                <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Config%20Management-Docker-%230078D7?logo=Docker&logoColor=white"></a>
+                <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Backend%20Service-Docker-%230078D7?logo=Docker&logoColor=white"></a>
                 <a href="https://www.unrealengine.com/en-US/"><img src="https://img.shields.io/badge/Public%20Game%20Engine-UE5-%230078D7?logo=unreal%20engine&logoColor=white"></a>
                <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Config%20Management-Ansible-%230078D7?logo=ansible&logoColor=white"></a>
 
