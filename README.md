@@ -35,7 +35,7 @@
                 <a href="https://store.google.com/gb/config/pixel_7_pro"><img src="https://img.shields.io/badge/Phone-Pixel%207%20Pro%20-%230078D7?logo=googleplay&logoColor=white"></a>
                 <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Desktop%20OS-Windows%2011-%230078D7?logo=windows&logoColor=white"></a>
                 <a href="https://www.microsoft.com/edge"><img src="https://img.shields.io/badge/Browser-Microsoft%20Edge-%230078D7?logo=microsoft-edge&logoColor=white"></a>
-                <a href="https://visualstudio.microsoft.com/vs"><img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code%20-%230078D7?logo=visual-studio&logoColor=white"></a>
+                <a href="https://jetbrains.com/rider"><img src="https://img.shields.io/badge/IDE-Rider-%230078D7?logo=jetbrains&logoColor=white"></a>
                 <a href="https://www.ubuntu.com/"><img src="https://img.shields.io/badge/WSL%20distro-Ubuntu-%230078D7?logo=ubuntu&logoColor=white"></a>
                 <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/VCM-Gitlab-%230078D7?logo=Gitlab&logoColor=white"></a>
                 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Frontend%20framework-Bootstrap-%230078D7?logo=bootstrap&logoColor=white"></a>
