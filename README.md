@@ -46,7 +46,6 @@
                 <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7"><img src="https://img.shields.io/badge/Shell%20-Powershell-%230078D7?logo=PowerShell&logoColor=white"></a>
                 <a href="https://www.unrealengine.com/en-US/"><img src="https://img.shields.io/badge/Build%20Pipeline-Horde-%230078D7?logo=unreal%20engine&logoColor=blue"></a>
                 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/API%20Coverage-Postman-%230078D7?logo=Postman&logoColor=white"></a>
-                <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Backend%20Service-Docker-%230078D7?logo=Docker&logoColor=white"></a>
                 <a href="https://www.unrealengine.com/en-US/"><img src="https://img.shields.io/badge/Public%20Game%20Engine-UE5-%230078D7?logo=unreal%20engine&logoColor=white"></a>
                <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Config%20Management-Ansible-%230078D7?logo=ansible&logoColor=white"></a>
 
