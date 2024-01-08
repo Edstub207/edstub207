@@ -40,7 +40,7 @@
                 <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/VCM-Gitlab-%230078D7?logo=Gitlab&logoColor=white"></a>
                 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Frontend%20framework-Bootstrap-%230078D7?logo=bootstrap&logoColor=white"></a>
                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160"><img src="https://img.shields.io/badge/Game%20Dev%20Language-C++-%230078D7?logo=c%2B%2B&logoColor=white"></a>
-                <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Cloud%20platform-Microsoft%20Azure-%230078D7?logo=microsoft-azure&logoColor=white"></a>
+                <a href="https://console.cloud.google.com"><img src="https://img.shields.io/badge/Cloud%20platform-GCP-%230078D7?logo=googlecloud&logoColor=white"></a>
                 <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://img.shields.io/badge/Backend%20framework-Asp.net-%230078D7?logo=dotnet&logoColor=white"></a>
                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/Currently%20Learning-C%23-%230078D7?logo=C#&logoColor=white"></a>
                 <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7"><img src="https://img.shields.io/badge/Shell%20-Powershell-%230078D7?logo=PowerShell&logoColor=white"></a>
