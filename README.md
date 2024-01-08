@@ -32,7 +32,7 @@
 <h3 align="left">Primary Tech Stack:</h3>
                 <!--Badges examples https://github.com/Ileriayo/markdown-badges & https://simpleicons.org/ -->
                 <a href="https://www.nvidia.com/en-gb/"> <img src="https://img.shields.io/badge/Custom%20PC-Nvidia%20%26%20Intel-blue?logo=nvidia&logoColor=white"></a>
-                <a href="https://store.google.com/gb/config/pixel_7_pro"><img src="https://img.shields.io/badge/Phone-OnePlus%209%20Pro%20-%230078D7?logo=googleplay&logoColor=white"></a>
+                <a href="https://store.google.com/gb/config/pixel_7_pro"><img src="https://img.shields.io/badge/Phone-Pixel%207%20Pro%20-%230078D7?logo=googleplay&logoColor=white"></a>
                 <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Desktop%20OS-Windows%2010-%230078D7?logo=windows&logoColor=white"></a>
                 <a href="https://www.microsoft.com/edge"><img src="https://img.shields.io/badge/Browser-Microsoft%20Edge-%230078D7?logo=microsoft-edge&logoColor=white"></a>
                 <a href="https://visualstudio.microsoft.com/vs"><img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code%20-%230078D7?logo=visual-studio&logoColor=white"></a>
