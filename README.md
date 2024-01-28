@@ -23,10 +23,10 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Day In the Life: What is Build Engineering in Games](https://medium.com/edstub207/a-day-in-the-life-what-is-build-engineering-in-games-553355c5dc36?source=rss-bd08f63309c9------2)
 - [Retrospective: A look back at my first Five Years in Games and a look forwards….](https://medium.com/edstub207/retrospective-a-look-back-at-my-first-five-years-in-games-and-a-look-fowards-6230d3be8365?source=rss-bd08f63309c9------2)
 - [Retrospective: How I became a Programmer in Games &lpar;And a look back at the first year..&rpar;](https://medium.com/edstub207/retrospective-how-i-became-a-programmer-in-games-and-a-look-back-at-the-first-year-b4333693d324?source=rss-bd08f63309c9------2)
 - [Retrospective: A look back on 2021 in Video Games &amp; My Personal Top Picks](https://medium.com/edstub207/retrospective-a-look-back-on-2021-in-video-games-my-personal-top-picks-a727f1147ae?source=rss-bd08f63309c9------2)
-- [Looking Ahead: A Look at how to set Goals for 2021, and what my goals are](https://medium.com/edstub207/looking-ahead-a-look-at-how-to-set-goals-for-2021-and-what-my-goals-are-fff828fd1151?source=rss-bd08f63309c9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Primary Tech Stack:</h3>
