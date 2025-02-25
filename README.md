@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
-<h3 align="center">A Game Developer, specialising in Build Engineering, based in England.</h3>
+<h3 align="center">A Game Developer, specialising in Build & Release Engineering, including Tooling, based in England. Also, familiar with UE5's toolsets, such as Horde.</h3>
 
 <p align="left"> <a href="https://twitter.com/EddieMakesGames" target="blank"><img src="https://img.shields.io/twitter/follow/EddieMakesGames?logo=twitter&style=for-the-badge" alt="EddieMakesGames" /></a> </p>
 
